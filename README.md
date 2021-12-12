@@ -4,13 +4,15 @@
 ### description
 *when button is clicked, LED turns on and the motor moves 60 degrees*
 ### video
-https://youtube.com/shorts/Rfl8PAWS75s?feature=share
+[https://youtube.com/shorts/Rfl8PAWS75s?feature=share](url)
 __________________________________________________________________________________________________________________________________________________________ 
 
 ## 02 LED light out to in
 ### description
 *LED light turns on from outside to in, turns off from inside to out. Programmed to work with both odd/even numbers of LEDs*
 ### video
+EVEN - [https://www.youtube.com/watch?v=KDUeMrqN6lw](url)<br />
+ODD - [https://www.youtube.com/watch?v=t6wEdZibkZ0](url)
 __________________________________________________________________________________________________________________________________________________________ 
 
 ## 03 LED with two buttons (ON/OFF)
